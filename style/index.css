@@ -1,0 +1,41 @@
+#main {
+
+}
+
+#content {
+	width : 800px;
+	background-color : #534493;
+	margin-top : 30px;
+	padding: 10px;
+}
+
+#login {
+
+}
+
+#messageContent {
+	text-align : left;
+	width : 650px;
+	height : 400px;
+	background-color : white;
+	padding : 10px;
+	margin-top : 5px;
+	overflow : scroll;
+}
+
+#message {
+	margin-top : 20px;
+	margin-bottom : 10px;
+}
+
+span.user {
+	color : red;
+}
+
+#loginuser {
+	float : left;
+	font-size : 20px;
+	color : red;
+	width : 50px;
+	height : 50px;
+}
